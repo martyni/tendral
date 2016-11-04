@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#requirements including ipython only needed for local dev
+ipython-req.txt
